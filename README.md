@@ -58,13 +58,7 @@ Lane and Vehicle Detection -
 
 The final result after implementing is shown below. [Link to Video](https://www.youtube.com/watch?v=7Hx7mQV6f-c)
 
-## Author
 
-* **Rohitkrishna Namnbiar**  - [rohit517](https://github.com/rohit517)
-
-## Acknowledgments
-
-Lane Video was used from the Udacity Self Driving course for development.  
 
 
 
